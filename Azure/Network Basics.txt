@@ -1,3 +1,5 @@
+what is CSMA/CD
+
 https://www.cloudflare.com/learning/ddos/glossary/open-systems-interconnection-model-osi/
 
 How data flows through the OSI Model:
