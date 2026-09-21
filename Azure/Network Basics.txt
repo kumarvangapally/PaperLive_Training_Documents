@@ -17,3 +17,5 @@ The data will then flow into the receiver's session layer, which will pass the d
 what is citrix netscalar
 
 what is APIPA
+
+Create secondary site just for auditing i.e. when the audit going to happen, once completed, need to delete because he doesnt want to pay more.
