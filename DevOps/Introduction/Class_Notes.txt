@@ -477,6 +477,7 @@ Day 4 - 28th Aug. 2026
 				- This is used for Monolith Application Architecture.
 		
 				- CI/Cd(Delivery)
+				it is automating the integration and delivery/deployment of the applications.
 
 			Eg.: 
 			
